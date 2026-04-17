@@ -15,6 +15,9 @@
 | Control Horns | Nylon Control Horn Set | 1 set | — |
 | Pushrods | Steel Wire Pushrods (1–1.5mm) | 1 set | — |
 | Wheels (Optional) | Lightweight Foam Wheels + Landing Gear Wire | 1 set | — |
+| Rubber Bands | Standard Wing Mount Rubber Bands | 1 pack | — |
+| Skewers | Wooden BBQ Skewer Sticks (for wing mounting & reinforcement) | 1 pack | — |
+| Popsicle Sticks | Wooden Craft Sticks (for reinforcement) | 1 pack | — |
 | Adhesives | Hot Glue + CA Glue | — | — |
 | Electronics | XT60 Connectors, Servo Extensions, Heat Shrink | — | — |
 
