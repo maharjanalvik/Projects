@@ -2,41 +2,26 @@
 
 ### 🧩 Components
 
-- Motors (x4): EMAX ECO II 2004 3000KV  
-- FPV Camera: Caddx Ratel 2 Micro  
-- Battery: CNHL 1400mAh 4S LiPo (XT60)  
-- Flight Stack: SpeedyBee F405 Mini (FC + 4-in-1 ESC)  
-- Receiver: SpeedyBee Nano 2.4GHz ELRS  
-- VTX: SpeedyBee TX800 (5.8GHz, up to 800mW)  
-- GPS: GEPRC M10 GPS Module  
-- Antenna: Rush Cherry RHCP MMCX  
-- Propellers (x4): Gemfan D76 5-blade (76mm)  
-
-### 🧵 Materials (3D Printing)
-
-- Frame / Structure: SUNLU PLA Meta  
-- Ducts / Guards: eSUN ePLA-LW (Lightweight PLA)  
-
----
-
-## 💸 Cost Breakdown
-
-| Component | Product | Qty | Approx Unit Price | Subtotal |
-|----------|--------|-----|------------------|----------|
-| Motors | :contentReference[oaicite:0]{index=0} | 4 | ~$19 | ~$76 |
-| Camera | :contentReference[oaicite:1]{index=1} | 1 | ~$45 | ~$45 |
-| Battery | :contentReference[oaicite:2]{index=2} | 1 | ~$30–50 | ~$40 |
-| Flight Stack | :contentReference[oaicite:3]{index=3} | 1 | ~$90 | ~$90 |
-| Receiver | :contentReference[oaicite:4]{index=4} | 1 | ~$20 | ~$20 |
-| VTX | :contentReference[oaicite:5]{index=5} | 1 | ~$50 | ~$50 |
-| GPS | :contentReference[oaicite:6]{index=6} | 1 | ~$25–30 | ~$28 |
-| Antenna | :contentReference[oaicite:7]{index=7} | 1 | ~$15 | ~$15 |
-| Props | :contentReference[oaicite:8]{index=8} | 1 set | ~$4 | ~$4 |
-| PLA | :contentReference[oaicite:9]{index=9} | 1 spool | ~$20–30 | ~$25 |
-| LW-PLA | :contentReference[oaicite:10]{index=10} | 1 spool | ~$45–50 | ~$50 |
+| Component | Product | Qty | Link |
+|----------|--------|-----|------|
+| Motors | EMAX ECO II 2004 3000KV | 4 | https://emaxmodel.com/products/emax-ecoii-2004-brushless-motor |
+| Camera | Caddx Ratel 2 Micro FPV Camera | 1 | https://caddxfpv.com/products/caddx-ratel-2 |
+| Battery | CNHL MiniStar 1500mAh 4S 120C LiPo (XT60) | 1 | https://chinahobbyline.com/products/cnhl-ministar-series-1500mah-14-8v-4s-120c-lipo-battery-with-xt60-plug |
+| Flight Stack | SpeedyBee F405 Mini FC + 4in1 ESC | 1 | https://www.speedybee.com/speedybee-f405-mini-stack |
+| Receiver | SpeedyBee Nano ELRS 2.4GHz Receiver | 1 | https://www.speedybee.com/speedybee-nano-elrs-receiver |
+| VTX | SpeedyBee TX800 5.8GHz VTX | 1 | https://www.speedybee.com/speedybee-tx800 |
+| GPS | GEPRC M10 GPS Module | 1 | https://geprc.com/product/geprc-m10-gps |
+| Antenna | Rush Cherry RHCP MMCX Antenna | 1 | https://rushfpv.net/products/rush-cherry-antenna |
+| Propellers | Gemfan D76 76mm 5-Blade Props | 1 set | https://www.gemfanhobby.com/show.aspx?id=404 |
+| PLA | SUNLU PLA Meta (1.75mm) | 1 | https://www.sunlu.com/products/pla-meta |
+| LW-PLA | eSUN ePLA-LW Lightweight PLA | 1 | https://esun3d.com/products/epla-lw |
 
 ---
 
-### 💰 Estimated Total: **~$440–$460 CAD**
+## 💸 Estimated Cost
 
-*(Depends heavily on battery choice, filament, and where you buy parts.)*
+| Category | Cost (CAD) |
+|---------|-----------|
+| Electronics | ~$370 |
+| Filament | ~$70–80 |
+| **Total** | **~$440–$460 CAD** |
